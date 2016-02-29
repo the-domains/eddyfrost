@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eddyfrost]]></title>
+        <description><![CDATA[eddyfrost]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 02:09:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to EddyFrost.com]]></title>
+            <description><![CDATA[<article><h1>Welcome to EddyFrost.com</h1><p>Edward Frost, Pastor, Chaplain, F1 enthusiast, Guitarist.  A site of personal interests and collegial links.</p></article>]]></description>
+            <link>undefinedwelcome-to-eddyfrostcom/index.html</link>
+            <guid isPermaLink="false">9cf1c4f4-a15a-447a-849f-4ba8d60711b0</guid>
+            <pubDate>Mon, 29 Feb 2016 02:09:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
