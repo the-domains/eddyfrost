@@ -1,0 +1,28 @@
+name: eddyfrost
+favicon: null
+layout_spectrum: 0.7173023482318968
+typography_spectrum: 0.48761391011066735
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2950398458633572
+  lightness: 0.19514469360001385
+  saturation: 0.960510287899524
+  rhythmicContrast: 0.4582727113738656
+purpose: []
