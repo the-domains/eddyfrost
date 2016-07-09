@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Edward Frost ]]></title>
         <description><![CDATA[Edward Frost ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://edfrost.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 19:26:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jul 2016 12:25:51 GMT</lastBuildDate>
+        <atom:link href="http://edfrost.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Edward Frost]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52c0c205-b736-417b-bb36-be2fad06a80c.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/52c0c205-b736-417b-bb36-be2fad06a80c.jpg</link>
+            <guid isPermaLink="false">9cf1c4f4-a15a-447a-849f-4ba8d60711b0</guid>
+            <pubDate>Sat, 09 Jul 2016 12:25:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Here is some great advice from Parker Palmer, a guru to many teachers:</p>]]></description>
-            <link>undefinedhere-is-some-great-advice-from-parker-palmer-a-guru-to-many/index.html</link>
+            <link>http://edfrost.org/here-is-some-great-advice-from-parker-palmer-a-guru-to-many/index.html</link>
             <guid isPermaLink="false">04fcd8b2-23d6-4312-a58a-b971078dca9c</guid>
             <pubDate>Fri, 03 Jun 2016 19:26:46 GMT</pubDate>
         </item>
