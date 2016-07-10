@@ -18,15 +18,15 @@ description: >-
   vowels, so only the consonants would have been written - Y-Sh-W-'h. The
   writing runs from right to left - the opposite of our way of writing. So the
   names of the Aramaic characters is yodh, shin, waw, 'ayin. This is the best
-  shot we have at how Jesus himself would have written his name. Here it is: 
-datePublished: '2016-07-09T13:27:28.662Z'
-dateModified: '2016-07-09T13:26:52.708Z'
+  shot we have at how Jesus himself would have written his name. Here it is:
+datePublished: '2016-07-10T00:09:52.340Z'
+dateModified: '2016-07-10T00:09:25.261Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-09-how-would-jesus-have-written-his-name.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-09-how-would-jesus-have-written-his-name.md
 url: how-would-jesus-have-written-his-name/index.html
 _type: MediaObject
 
