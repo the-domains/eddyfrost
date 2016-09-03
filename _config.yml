@@ -1,20 +1,4 @@
-name: eddyfrost
-favicon: null
-layout_spectrum: 0.4896
 typography_spectrum: 0.48761391011066735
-title: 'Edward Frost '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.4582727113738656
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4896
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: eddyfrost
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Edward Frost '
+description: Minis
 purpose: []
